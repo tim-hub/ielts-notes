@@ -1,8 +1,6 @@
-My Awesome Book
+前言
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+考试是一个很有趣的东西。它比较公平，因为有了考试之后，一个人的职业不在取决于他的出身，而更依赖于考试成绩。它也比较恼人，因为考试的成绩常常不能非常好地展示出应试人的能力。
 
-When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
+不过，它相对比较公平的特性吸引了我，于是我就在前些日子花了些时间去准备雅思考试。
