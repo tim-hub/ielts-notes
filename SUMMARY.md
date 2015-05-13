@@ -1,10 +1,10 @@
 # Summary
 
 
-* [1 Plans](1Plans/README.md)
-	*[1.1](1.1.md)
+* [Plans](1Plans/README.md)
+	* [ch1](1.1.md)
 	
-* [2   ](2Resources/README.md)
-	*[1.2]()
+* [Resources](2Resources/README.md)
+	* [ch2.2]()
 	
 * [About The Author](AboutTheAuthor.md)
