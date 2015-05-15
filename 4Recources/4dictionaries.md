@@ -2,7 +2,8 @@
 
 
 
-##goldendict
+## 牛津
+goldendict
 Tim认为暂时最好的词典软件，没有之一
 
 
