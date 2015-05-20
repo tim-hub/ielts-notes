@@ -15,7 +15,7 @@
 
 ##制定计划：
 
-###硬件准备
+###一些准备
 - 一个Tasks Manager 软件（Linux用户推荐[Getting Things Gnome!](software)）
 - 一个Task口袋本（随时提醒自己，还有任务要做）
 
