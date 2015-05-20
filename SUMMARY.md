@@ -1,7 +1,7 @@
 # Summary
 
 
-* [Plans](0Plans/README.md)
+* [制定计划](0Plans/README.md)
 	* [集中时间复习单项](0Plans/1single-multi.md)
 	* [任务驱动](0Plans/tasks.md)
 	* [不错的计划模版](0Plans/2plansSamples.md)

@@ -15,17 +15,27 @@
 ##雅思笔记：
 
 [目录]
-
-
-
-
-
-
-
-
-
-
-##Tim是谁？
-请看本书最后——[About The Author]()
+* [制定计划](0Plans/README.md)
+* [单词](1Vocabulary/README.md)	
+* [听与说](2Listening&Speaking/README.md)		
+* [读与写](3Reading&Writing/README.md)
+* [一些语言学习资源](4Resources/README.md)
+* [软件推荐](Softwares/README.md)
+* [备考书籍推荐](Books/README.md)
+* [About in EN](EN/README.md)
+* [Timothy是谁？](AboutTheAuthor.md)
+* [做个测试吧](Test.md)
+* [怎么还有一页？](Donation.md)
 
 ##捐赠
+Bitcoin Address:
+
+	1FPjYTPrroRqzXbBEEjqcwGaRWKvfiZA8g
+Dash Address:
+
+	Xy7dnDCdgjzUAuKoaJRuFxFBJ2rwWfoWEb
+Bitshares Address:
+
+	xxx
+
+[关于捐赠](Donation.md)
