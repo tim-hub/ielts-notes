@@ -26,4 +26,7 @@ X的身体素质不会因为少去一天，而受很大影响。但又不得不�
 
 ##更详尽的时间管理
 
-牧师讲道
+[《作时间的主人》  --刘志雄](http://downs.fuyin.tv:8016/mydown/06%E7%A6%8F%E9%9F%B3%E8%AF%81%E9%81%93/%E5%A5%BD%E6%B6%88%E6%81%AF%E7%A9%BA%E4%B8%AD%E4%B8%BB%E6%97%A5%E5%AD%A6/%E9%97%A8%E5%BE%92%E8%AE%AD%E7%BB%83/37%E4%BD%9C%E6%97%B6%E9%97%B4%E7%9A%84%E4%B8%BB%E4%BA%BA-%E5%88%98%E5%BF%97%E9%9B%84/%E4%BD%9C%E6%97%B6%E9%97%B4%E7%9A%84%E4%B8%BB%E4%BA%BA01.mp4)
+
+[详细视频](http://www.fuyin.tv/content/view/movid/2530/)
+

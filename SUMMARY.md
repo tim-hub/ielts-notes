@@ -16,6 +16,7 @@
 	* [跟读和纠音](2Listening&Speaking/跟读纠音大法.md)
 	* [听写](2Listening&Speaking/听写法.md)
 	* [口语的图灵测试](2Listening&Speaking/口语的图灵测试.md)
+	* [听听别人怎么说](2Listening&Speaking/听听别人怎么说.md)
 	
 * [读与写](3Reading&Writing/README.md)
 	* [快速阅读](3Reading&Writing/快速阅读.md)
@@ -39,7 +40,7 @@
 	* [GoldenDict词典](Softwares/goldendict.md)
 	* [播放器](Softwares/audioPlayer.md)
 * [备考书籍推荐](Books/README.md)
-* [EN](EN/README.md)
+* [About In EN](EN/README.md)
 * [Timothy是谁？](AboutTheAuthor.md)
 * [做个测试吧](Test.md)
 * [怎么还有一页？](Donation.md)
