@@ -3,12 +3,6 @@
 	},
 
 	{
-		"title": "雅思笔记 IELTS Notes",
-		"description": "Learn how to prepare for IELTS. And there are some resources for IELTS.",
-		"author": "timothy",
 		"gitbook": ">=2.0.0"
-
-
-
 	}
 ]
