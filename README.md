@@ -3,6 +3,8 @@
 
     本书尚未完成，因个人时间原因，提前公布，有意合作者，欢迎补充
 
+[Read It On Gitbook](https://timothy.gitbooks.io/ielts/content/)
+
 ##考试???
 从某种角度来讲，考试改版了人类的历史。
 
