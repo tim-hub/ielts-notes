@@ -2,8 +2,8 @@
 =======
 
     本书尚未完成，因个人时间原因，提前公布，有意合作者，欢迎补充
-[Gitbook](https://ielts.gitbook.io/book/)
-[Read It On Gitbook Legacy](https://timothy.gitbooks.io/ielts/content/)
+- [Gitbook](https://ielts.gitbook.io/book/)
+- [Read It On Gitbook Legacy](https://timothy.gitbooks.io/ielts/content/)
 
 
 ##考试???
